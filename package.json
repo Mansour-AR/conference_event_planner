@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://mansour-ar.github.io/conference_event_planner",
+  "homepage": "https://mansour-ar.github.io/conference_event_planner/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
