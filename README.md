@@ -147,16 +147,4 @@ The application uses Redux Toolkit for efficient state management across three m
 
 This project is licensed under the Apache-2.0 license - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 About BudgetEase Solutions
 
-Welcome to BudgetEase Solutions, your trusted partner in simplifying budget management and financial solutions. At BudgetEase, we understand the importance of effective budget planning and strive to provide intuitive, user-friendly solutions to meet the diverse needs of our clients.
-
-With a commitment to efficiency and innovation, we empower individuals and businesses to take control of their finances and achieve their goals with ease.
-
-## 📞 Support
-
-For support or questions about this project, please open an issue on GitHub or contact the development team.
-
----
-
-**Built with ❤️ by BudgetEase Solutions**
