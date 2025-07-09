@@ -145,7 +145,7 @@ The application uses Redux Toolkit for efficient state management across three m
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache-2.0 license - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 About BudgetEase Solutions
 
